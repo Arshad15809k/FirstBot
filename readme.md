@@ -8,7 +8,7 @@
 
 <b>A Trial bot based on Telethon.</b>   
 
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/Arshad15809k/FirstBot/stargazers)
+[![Stars](https://img.shields.io/github/stars/Arshad15809k/Bot?style=flat-square&color=yellow)](https://github.com/Arshad15809k/FirstBot/stargazers)
 [![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/Arshad15809k/FirstBot/fork)
 [![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/Arshad15809k/FirstBot/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
