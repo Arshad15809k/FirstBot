@@ -1,2 +1,2 @@
 sudo apt-get install git-all
-python -m bot
+python3 -m bot
