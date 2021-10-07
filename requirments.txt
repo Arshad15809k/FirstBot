@@ -1,5 +1,0 @@
-https://github.com/New-dev0/Telethon/archive/New.zip
-py-Ultroid==2021.7.19
-TgCrypto
-https://raw.githubusercontent.com/HasibulKabir/pyrogramarchive/master/pyrogramasyncv0.18.0.zip
-git+https://github.com/ytdl-org/youtube-dl
